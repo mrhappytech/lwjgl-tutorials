@@ -1,2 +1,2 @@
 # lwjgl-tutorials
-Project for understanding and teaching of OpenGL in Java
+Project to understanding and learning OpenGL in Java
